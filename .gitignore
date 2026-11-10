@@ -1,0 +1,17 @@
+# Local runtimes, credentials, generated replies, and game state
+node_modules/
+.codex-test-runtime/
+.test-temp/
+.env
+.env.*
+*.dpapi
+credentials*
+settings.json
+live-bridge.json
+running.lock
+LiveSignals/
+ForeverAI_R[0-9][0-9][0-9]/
+WTF/
+*.log
+*.tmp
+*.zip
