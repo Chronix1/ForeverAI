@@ -1,0 +1,6 @@
+{
+  "name": "foreverai-companion", "version": "1.0.0-alpha", "private": true,
+  "type": "module", "description": "Local DE/EN companion for ForeverAI; opted-in automatic in-game data sync with no game-process access. Experimental opt-in two-way live AI bridge uses visible pixels and preinstalled data-only reply addons.",
+  "license": "MIT", "engines": {"node": ">=22.16.0"},
+  "scripts": {"start": "node server.mjs", "test": "node --test test/*.test.mjs"}
+}
