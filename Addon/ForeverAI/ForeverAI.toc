@@ -1,0 +1,30 @@
+## Interface: 16001
+## Title: ForeverAI
+## Notes: DE/EN Forever knowledge, navigation and auto-synced database and experimental no-import AI bridge.
+## Notes-deDE: Dungeon-, Klassen- und Waffenhilfe im Spiel mit automatisch vorbereiteten Daten (nach Reload).
+## Notes-enUS: In-game search, gear and navigation using a locally synchronized data file. Experimental two-way companion live bridge.
+## Notes-enGB: In-game search, gear and navigation using a locally synchronized data file. Experimental two-way companion live bridge.
+## Author: ForeverAI Project
+## Version: 1.0.0-alpha
+## OptionalDeps: QuestieDB, Questie, ShortestPathForever
+## SavedVariablesPerCharacter: ForeverAIDB, ForeverGuideDB
+
+Locale.lua
+Logic.lua
+Preferences.lua
+Chat.lua
+LiveBridge.lua
+Terms.lua
+Navigation.lua
+Guidance.lua
+Bridge.lua
+UI.lua
+Loot.lua
+Equipment.lua
+Locations.lua
+QuestieEvidence.lua
+Knowledge.lua
+SyncData.lua
+OfflineSync.lua
+Guide.lua
+Main.lua
